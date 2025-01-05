@@ -1,36 +1,17 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Projeto com o objetivo de gerar um ebook digital com informações úteis para quem desejar fazer o Caminho de Santiago de Compostela. 
+Todos os prompts seguem abaixo.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Prii85/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DREAMLAB do CANVA](https://www.canva.com/dream-lab)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,53 +21,27 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+
+| conteúdo | Crie um roteiro para e-book sobre dicas para quem está planejando fazer o Caminho de Santiago de Compostela, inclua informações sobre indicações de que época ir, custo, o que levar, o que esperar da experiência, opções de caminhos e duração da viagem, faça de conta que você é um experiente peregrino, que já fez fez várias rotas e que trabalha dando suporte e consultoria para viajantes iniciantes. Sugira títulos interessantes para os capítulos, forneça bases históricas quando for explicar a origem do caminho na introdução. O título deve ser inspirado em construir uma experiencia épica, espiritual, introspectiva, o texto em si deve ter essa referência  para a importância de estar aberto para essa jornada. O público a que se destina o e-book será um público a partir de 30 anos, que deseja uma experiência diferente e mais intimista. Linguagem fluida, enxuta e clara e leve.  
+Crie subtítulos para cada capítulo, criados anteriormente, resumindo a ideia deles com uma ou duas frases|
+|  título  | Crie 5 opções de título para o e-book, o título deve ser inspirado em construir uma experiencia épica, espiritual, introspectiva|
 
 
-Midjourney：
+DREAMLAB：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| imagem | crie uma imagem inspiradora de uma mulher peregrina de 30 anos, cabelos soltos iniciando o percurso para Santiago de Compostela, com mochila nas costas, roupas próprias para caminhada de vários dias, a pessoa está de costas, a paisagem é um vale,  vegetação rasteira bonita com algumas flores, uma pequena montanha ao fundo, o sol querendo se por por trás das montanhas ao longe. A imagem tem um foco inspirador, intimista, quase espiritual, perspectiva mais realista na imagem, use tons de cores mais claras. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via DreamLab
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens adicionais utilizadas foram o símbolos utilizados para fazer referência ao Caminho, foram pesquisados na web.
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
