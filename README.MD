@@ -1,12 +1,12 @@
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s - Entre Céu e Terra - Uma jornada para Além da Trilha
 
 
 Projeto com o objetivo de gerar um ebook digital com informações úteis para quem desejar fazer o Caminho de Santiago de Compostela. 
 Todos os prompts seguem abaixo.
 
-<a href="https://github.com/Prii85/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Prii85/prompts-recipe-to-create-a-ebook/blob/main/Entre%20C%C3%A9u%20e%20Terra%20-%20Uma%20jornada%20para%20Al%C3%A9m%20da%20Trilha.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
